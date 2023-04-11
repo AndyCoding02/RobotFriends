@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AndyCoding02/RobotFriends/static/css/main.1c4b93ad.css",
+    "main.js": "/AndyCoding02/RobotFriends/static/js/main.3858bded.js",
+    "static/js/787.72e6b618.chunk.js": "/AndyCoding02/RobotFriends/static/js/787.72e6b618.chunk.js",
+    "static/media/SEGA.TTF": "/AndyCoding02/RobotFriends/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "index.html": "/AndyCoding02/RobotFriends/index.html",
+    "main.1c4b93ad.css.map": "/AndyCoding02/RobotFriends/static/css/main.1c4b93ad.css.map",
+    "main.3858bded.js.map": "/AndyCoding02/RobotFriends/static/js/main.3858bded.js.map",
+    "787.72e6b618.chunk.js.map": "/AndyCoding02/RobotFriends/static/js/787.72e6b618.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c4b93ad.css",
+    "static/js/main.3858bded.js"
+  ]
+}
